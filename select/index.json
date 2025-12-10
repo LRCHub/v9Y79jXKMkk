@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "コントラスト",
+  "base_artist": "TOMOO",
+  "createdAt": "2025-12-10T09:17:55.984446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": false,
+      "path": "select/01_コントラスト_Hiromi_Iwasaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "篠澤広(CV.川村玲奈)",
+      "has_synced": true,
+      "path": "select/02_コントラスト_篠澤広(CV.川村玲奈).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/03_コントラスト_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "篠澤広",
+      "has_synced": true,
+      "path": "select/04_コントラスト_篠澤広.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コントラスト [Instrumental]",
+      "artist": "篠澤広(CV.川村玲奈)",
+      "has_synced": true,
+      "path": "select/05_コントラスト_[Instrumental]_篠澤広(CV.川村玲奈).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "TOMOO",
+      "has_synced": true,
+      "path": "select/06_コントラスト_TOMOO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "初星学園&佐々木恵梨&鵜飼大幹&中村ヒロ&篠澤 広",
+      "has_synced": true,
+      "path": "select/07_コントラスト_初星学園&佐々木恵梨&鵜飼大幹&中村ヒロ&篠澤_広.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コントラスト",
+      "artist": "clammbon",
+      "has_synced": true,
+      "path": "select/08_コントラスト_clammbon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コントラスト",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_コントラスト_TOMOO.txt"
+    }
+  ]
+}
